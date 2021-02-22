@@ -9,45 +9,6 @@ namespace DecoratorPattern
     {
         //This reference holds the character object being created
         public Sword Sword;
-
-
-        /*void Start()
-        {
-           
-        }*/
-
-        // Update is called once per frame
-        /*void Update()
-        {
-
-        }*/
-
-        // We could create the object and add decorators with
-        // one method per setting:
-        /*        public void SetRaceElf()
-                {
-                    this.character = new RaceElf();
-                    DisplayCharacter();
-                }
-
-                public void SetRaceTroll()
-                {
-                    this.character = new RaceTroll();
-                    DisplayCharacter();
-                }
-
-                public void AddProfessionWarrior()
-                {
-                    this.character = new ProfessionWarrior(character);
-                    DisplayCharacter();
-                }
-
-                public void AddProfessionWizard()
-                {
-                    this.character = new ProfessionWizard(character);
-                    DisplayCharacter();
-                }*/
-
         public void AddRune(string newRune)
         {
             switch (newRune)
