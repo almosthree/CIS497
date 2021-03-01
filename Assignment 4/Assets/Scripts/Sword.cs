@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* * (Jerod Lockhart) 
+ * * (SwordBuilder) 
+ * * (Assignment4) 
+ * * (This is the concrete sword class) 
+ */
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

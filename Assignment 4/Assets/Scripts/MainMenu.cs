@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* * (Jerod Lockhart) 
+ * * (MainMenu) 
+ * * (Assignment4) 
+ * * (This is the main menu) 
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

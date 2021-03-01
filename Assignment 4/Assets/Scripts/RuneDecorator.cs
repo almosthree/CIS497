@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* * (Jerod Lockhart) 
+ * * (RuneDecorator) 
+ * * (Assignment4) 
+ * * (This is the Decorator for the runes to the sword) 
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

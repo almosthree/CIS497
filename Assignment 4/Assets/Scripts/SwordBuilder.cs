@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/* * (Jerod Lockhart) 
+ * * (SwordBuilder) 
+ * * (Assignment4) 
+ * * (This builds the sword for the runes) 
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

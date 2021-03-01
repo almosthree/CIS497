@@ -1,4 +1,9 @@
-﻿namespace DecoratorPattern
+﻿/* * (Jerod Lockhart) 
+ * * (RuneNature) 
+ * * (Assignment4) 
+ * * (This is the nature rune that ads to the sword) 
+ */
+namespace DecoratorPattern
 {
     internal class RuneNature : RuneDecorator
     {

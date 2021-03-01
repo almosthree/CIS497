@@ -1,4 +1,9 @@
-﻿namespace DecoratorPattern
+﻿/* * (Jerod Lockhart) 
+ * * (RuneFire) 
+ * * (Assignment4) 
+ * * (This builds the fire rune) 
+ */
+namespace DecoratorPattern
 {
     internal class RuneFire : RuneDecorator
     {
