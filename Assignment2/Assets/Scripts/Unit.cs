@@ -7,9 +7,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Unit
+public abstract class Unit
 {
-    float speed;
+    public float speed;
 
+    public abstract string TryToDive();
 
+    public abstract void ForwardAdvancement();
+
+    public abstract void DiveAble();
 }
