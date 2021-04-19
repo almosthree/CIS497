@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Week12_Adapter_and_Facade/12.2. Facade Pattern with GameObjects.unity
+    guid: e7c172e48ded9904e993e5ecc1b30380
   m_configObjects: {}
